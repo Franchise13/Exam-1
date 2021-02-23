@@ -1,0 +1,33 @@
+h3 {
+	font: Arial;
+	color: #0000CC;
+}
+
+body {
+	background-color: #FFFFCC;
+}
+
+.user label {
+	font-family: Arial;
+	color: #000066;
+	width: 10%;
+	float: left;
+}
+
+.pwd label {
+	font-family: Arial;
+	color: #000066;
+	width: 10%;
+	float: left;
+
+}
+
+.user input.login {
+	margin-bottom: 25px;
+}
+
+.end {
+	margin-top: 25px;
+	margin-left: 130px;
+	float:left;
+}
